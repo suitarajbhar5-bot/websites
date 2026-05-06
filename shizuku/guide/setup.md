@@ -1,4 +1,4 @@
-# User manual
+<a href="https://dontkillmyapp.com/realme"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/realme3.svg"></a># User manual
 
 [[toc]]
 
